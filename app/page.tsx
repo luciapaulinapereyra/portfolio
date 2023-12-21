@@ -24,7 +24,7 @@ const Page = async () => {
 
           <div className="text-center">
             <h6 className="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">
-              Lucia Pereryra
+              Lucía Pereryra
             </h6>
 
             <h1 className="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">
@@ -32,8 +32,10 @@ const Page = async () => {
             </h1>
 
             <p className="font-normal text-gray-600 text-md md:text-xl mb-16">
-              I have a passion for software. I enjoy creating tools that make
-              life easier for people.
+              I’m a software developer based in Argentina. I have rich
+              experience in web site design & building and customization.
+  
+
             </p>
 
             <a
@@ -102,8 +104,7 @@ const Page = async () => {
               </h1>
 
               <p className="font-normal text-gray-500 text-xs md:text-base">
-                I have brought here my biggest and favorite works <br /> as a
-                professional.
+              Here are my most recent personal projects.
               </p>
             </div>
 
@@ -117,17 +118,15 @@ const Page = async () => {
 
                 <div>
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl mb-5">
-                    Demo API Generator
+                    Cinema API
                   </h1>
 
                   <p className="font-normal text-gray-500 text-sm md:text-base">
-                    A dummy data free and documented API generator to facilitate{" "}
-                    <br /> the process of testing the front-end portion of
-                    projects.
+                    API that allows you to manage the information of a cinema, <br></br> specifically the movie billboard.
                   </p>
 
                   <div className="flex gap-2 mt-4">
-                    <a className="underline cursor-pointer">view code</a>
+                    <a href="https://github.com/luciapaulinapereyra/cinema-api" className="underline cursor-pointer">view code</a>
                   </div>
                 </div>
               </div>
@@ -141,17 +140,16 @@ const Page = async () => {
 
                 <div>
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl mb-5">
-                    Demo API Generator
+                    Lulu-bot
                   </h1>
 
                   <p className="font-normal text-gray-500 text-sm md:text-base">
-                    A dummy data free and documented API generator to facilitate{" "}
-                    <br /> the process of testing the front-end portion of
-                    projects.
+                  WhatsApp bot that converts images into stickers, <br>
+                </br>among other features.
                   </p>
 
                   <div className="flex gap-2 mt-4">
-                    <a className="underline cursor-pointer">view code</a>
+                    <a href = "https://github.com/luciapaulinapereyra/lulubot-testing" className="underline cursor-pointer">view code</a>
                   </div>
                 </div>
               </div>
@@ -165,17 +163,15 @@ const Page = async () => {
 
                 <div>
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl mb-5">
-                    Demo API Generator
+                    Pet API
                   </h1>
 
                   <p className="font-normal text-gray-500 text-sm md:text-base">
-                    A dummy data free and documented API generator to facilitate{" "}
-                    <br /> the process of testing the front-end portion of
-                    projects.
+                  API designed to give animals up for adoption.
                   </p>
 
                   <div className="flex gap-2 mt-4">
-                    <a className="underline cursor-pointer">view code</a>
+                    <a href= "https://github.com/luciapaulinapereyra/pet-app" className="underline cursor-pointer">view code</a>
                   </div>
                 </div>
               </div>
@@ -197,117 +193,78 @@ const Page = async () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h4 className="font-medium text-gray-700 text-lg mb-4">
-                2015 – 2016
+                2019 – Actual
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
-                sed do eiusmod tempor <br /> incididunt ut labore et dolore
-                magna aliqua.
+              UNLP computer science student. Here I learned the principles of programming along with my first look at Java.
               </p>
-
-              <div className="relative">
-                <h6 className="font-semibold text-gray-500 text-md relative z-10">
-                  See the place here
-                </h6>
-                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-              </div>
             </div>
 
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h4 className="font-medium text-gray-700 text-lg mb-4">
-                2015 – 2016
+              August 2023
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
-                sed do eiusmod tempor <br /> incididunt ut labore et dolore
-                magna aliqua.
+              SQL Database Creation Course on Udemy. <br></br>
+              This course was totally dedicated to SQL, creation, normalization and maintenance.
               </p>
 
-              <div className="relative">
-                <h6 className="font-semibold text-gray-500 text-md relative z-10">
-                  See the place here
-                </h6>
-                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-              </div>
             </div>
 
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h4 className="font-medium text-gray-700 text-lg mb-4">
-                2015 – 2016
+                October 2022
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
-                sed do eiusmod tempor <br /> incididunt ut labore et dolore
-                magna aliqua.
+              JUnit and Mockito course conducted on Udemy. <br></br>
+              With this 15-hour guide I learned to test services and controllers, mocking everything necessary
               </p>
 
-              <div className="relative">
-                <h6 className="font-semibold text-gray-500 text-md relative z-10">
-                  See the place here
-                </h6>
-                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-              </div>
             </div>
 
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h4 className="font-medium text-gray-700 text-lg mb-4">
-                2015 – 2016
+              August 2022
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
-                sed do eiusmod tempor <br /> incididunt ut labore et dolore
-                magna aliqua.
+              Udemy course dedicated to Kubernetes. <br></br>
+              In this course I learned much of my current knowledge about Kubernetes
               </p>
 
-              <div className="relative">
-                <h6 className="font-semibold text-gray-500 text-md relative z-10">
-                  See the place here
-                </h6>
-                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-              </div>
             </div>
 
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h4 className="font-medium text-gray-700 text-lg mb-4">
-                2015 – 2016
+                July 2022
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
-                sed do eiusmod tempor <br /> incididunt ut labore et dolore
-                magna aliqua.
+              Java Hibernate and JPA course carried out in IT Education. <br></br>
+              In this course I strengthened my knowledge related to queries and database design.
               </p>
 
-              <div className="relative">
-                <h6 className="font-semibold text-gray-500 text-md relative z-10">
-                  See the place here
-                </h6>
-                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-              </div>
             </div>
+
 
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h4 className="font-medium text-gray-700 text-lg mb-4">
-                2015 – 2016
+                April 2022
               </h4>
 
               <p className="font-normal text-gray-500 text-md mb-4">
-                Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit,
-                sed do eiusmod tempor <br /> incididunt ut labore et dolore
-                magna aliqua.
+              Backend training in Java with the CCYD company. <br></br>
+               In this training I improved my skills in spring boot and databases.
               </p>
 
-              <div className="relative">
-                <h6 className="font-semibold text-gray-500 text-md relative z-10">
-                  See the place here
-                </h6>
-                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
-              </div>
             </div>
+
+
+
+
           </div>
         </div>
       </section>
@@ -320,34 +277,21 @@ const Page = async () => {
             </h1>
 
             <ul className="font-medium text-gray-700 text-xs md:text-base">
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
-              <li className="inline-block mr-8">Backend</li>
-              <li className="inline-block mr-8">Frontend</li>
-              <li className="inline-block mr-8">DevOps</li>
-              <li className="inline-block mr-8">UI/UX</li>
+              <li className="inline-block mr-8">Springboot</li>
+              <li className="inline-block mr-8">Typescript</li>
+              <li className="inline-block mr-8">Node.js</li>
+              <li className="inline-block mr-8">POO</li>
+              <li className="inline-block mr-8">AWS</li>
+              <li className="inline-block mr-8">GCP</li>
+              <li className="inline-block mr-8">Docker</li>
+              <li className="inline-block mr-8">Kubernetes</li>
+              <li className="inline-block mr-8">SQL</li>
+              <li className="inline-block mr-8">Grafana</li>
+              <li className="inline-block mr-8">JUnit5</li>
+              <li className="inline-block mr-8">Keycloak</li>
+              <li className="inline-block mr-8">Sonarqube</li>
+              <li className="inline-block mr-8">Swagger-ui</li>
+
             </ul>
           </div>
         </div>
@@ -360,7 +304,7 @@ const Page = async () => {
           </h1>
 
           <p className="font-normal text-gray-500 text-xs md:text-base mb-20">
-            Below is a summary of the places I studied
+            Below is a summary of the places I worked
           </p>
 
           <div className="flex flex-col lg:flex-row justify-between">
@@ -370,29 +314,13 @@ const Page = async () => {
               </h6>
 
               <p className="font-semibold text-gray-600 text-base">
-                Massa Fames{" "}
-                <span className="font-normal text-gray-300">/ New York</span>
+                Asap Consulting
               </p>
 
               <p className="font-semibold text-gray-600 text-base">
-                Massa Fames{" "}
-                <span className="font-normal text-gray-300">/ New York</span>
+                Superprof
               </p>
 
-              <p className="font-semibold text-gray-600 text-base">
-                Massa Fames{" "}
-                <span className="font-normal text-gray-300">/ New York</span>
-              </p>
-
-              <p className="font-semibold text-gray-600 text-base">
-                Massa Fames{" "}
-                <span className="font-normal text-gray-300">/ New York</span>
-              </p>
-
-              <p className="font-semibold text-gray-600 text-base">
-                Massa Fames{" "}
-                <span className="font-normal text-gray-300">/ New York</span>
-              </p>
             </div>
 
             <div className="space-y-8 md:space-y-16 mb-16 md:mb-0">
@@ -401,24 +329,13 @@ const Page = async () => {
               </h6>
 
               <p className="font-normal text-gray-400 text-base">
-                Junior Front-End Developer
+                Back-End Developer
               </p>
 
               <p className="font-normal text-gray-400 text-base">
-                Junior Front-End Developer
+              Spring Boot teacher
               </p>
 
-              <p className="font-normal text-gray-400 text-base">
-                Junior Front-End Developer
-              </p>
-
-              <p className="font-normal text-gray-400 text-base">
-                Junior Front-End Developer
-              </p>
-
-              <p className="font-normal text-gray-400 text-base">
-                Junior Front-End Developer
-              </p>
             </div>
 
             <div className="space-y-8 md:space-y-16">
@@ -426,15 +343,11 @@ const Page = async () => {
                 Year
               </h6>
 
-              <p className="font-normal text-gray-400 text-base">2016</p>
+              <p className="font-normal text-gray-400 text-base">2022 - Actual</p>
 
-              <p className="font-normal text-gray-400 text-base">2016</p>
+              <p className="font-normal text-gray-400 text-base">2022 - 2023</p>
 
-              <p className="font-normal text-gray-400 text-base">2016</p>
 
-              <p className="font-normal text-gray-400 text-base">2016</p>
-
-              <p className="font-normal text-gray-400 text-base">2016</p>
             </div>
           </div>
         </div>
