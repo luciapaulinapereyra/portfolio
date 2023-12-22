@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Lucia Pereyra portfolio",
-  description: "Hola! Soy Lucia Pereyra, desarrolladora web.",
+  description: "Hi! I'm Lucia Pereyra, a backend developer from Argentina.",
   manifest: "site.webmanifest",
   icons: [
     {
