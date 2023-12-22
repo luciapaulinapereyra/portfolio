@@ -363,7 +363,7 @@ const Page = async () => {
               <li className="inline-block">JUnit5</li>
               <li className="inline-block">Keycloak</li>
               <li className="inline-block">Sonarqube</li>
-              <li className="inline-block">Swagger-ui</li>
+              <li className="inline-block">FCM</li>
             </ul>
           </div>
         </div>
