@@ -20,8 +20,9 @@ const Page = async () => {
             </h1>
 
             <p className="font-normal text-gray-600 text-md md:text-xl mb-16">
-              I’m a software developer based in Argentina. I have rich
-              experience in web site design & building and customization.
+              I’m a software developer based in Argentina. I have experience in
+              the development of web applications.
+    
             </p>
 
             <a
@@ -232,7 +233,7 @@ const Page = async () => {
                   </h1>
 
                   <p className="font-normal text-gray-500 text-sm md:text-base">
-                    API designed to give animals up for adoption.
+                    API to post and view lost pets.
                   </p>
 
                   <div className="flex gap-2 mt-4">
