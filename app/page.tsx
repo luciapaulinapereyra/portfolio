@@ -26,7 +26,7 @@ const Page = async () => {
 
             <a
               href="#contact-me"
-              className="px-7 py-3 md:px-9 md:py-4 font-medium md:font-semibold bg-slate-700 text-gray-50 text-sm rounded-md hover:bg-gray-50 hover:text-gray-700 transition ease-linear duration-500"
+              className="px-7 py-3 md:px-9 md:py-4 font-medium md:font-semibold bg-blue-300 text-gray-50 text-sm rounded-md hover:bg-blue-50 hover:text-violet-700 transition ease-linear duration-500"
             >
               Contact me
             </a>
@@ -384,7 +384,7 @@ const Page = async () => {
               <Link
                 href="https://www.linkedin.com/company/asap-consulting-s.a./"
                 target="_blank"
-                className="underline cursor-pointer text-md text-violet-400"
+                className="underline cursor-pointer text-md text-pink-300"
               >
                 Asap Consulting
               </Link>
@@ -404,7 +404,7 @@ const Page = async () => {
               <Link
                 href="https://www.superprof.com.ar/desarrollo-web-back-end-con-java-springboot-jpa-mysql-para-personas-con-conocimientos-principiantes-intermedios.html"
                 target="_blank"
-                className="underline cursor-pointer text-md text-violet-400"
+                className="underline cursor-pointer text-md text-pink-300"
               >
                 Superprof
               </Link>
@@ -446,7 +446,7 @@ const Page = async () => {
               >
                 <i
                   data-feather="linkedin"
-                  className="bg-violet-200 hover:bg-violeta-300 transition ease-in-out duration-500 p-2 rounded-full"
+                  className="bg-violet-200 hover:bg-violet-300 transition ease-in-out duration-500 p-2 rounded-full"
                 >
                   <svg
                     fill="#000000"
@@ -488,7 +488,7 @@ const Page = async () => {
               >
                 <i
                   data-feather="gmail"
-                  className="bg-violet-200 hover:bg-violeta-300 transition ease-in-out duration-500 p-2 rounded-full"
+                  className="bg-pink-200 hover:bg-pink-300 transition ease-in-out duration-500 p-2 rounded-full"
                 >
                   <svg
                     width="64px"
@@ -522,7 +522,7 @@ const Page = async () => {
               >
                 <i
                   data-feather="gmail"
-                  className="bg-violet-200 hover:bg-violeta-300 transition ease-in-out duration-500 p-2 rounded-full"
+                  className="bg-blue-200 hover:bg-blue-300 transition ease-in-out duration-500 p-2 rounded-full"
                 >
                   <svg
                     width="64px"
