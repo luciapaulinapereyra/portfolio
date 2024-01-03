@@ -229,16 +229,17 @@ const Page = async () => {
 
                 <div>
                   <h1 className="font-normal text-gray-700 text-3xl md:text-4xl mb-5">
-                    Pet API
+                    Kubenator
                   </h1>
 
                   <p className="font-normal text-gray-500 text-sm md:text-base">
-                    API to post and view lost pets.
+                    Made with Python3 and Flask, this application allows you to <br></br>
+                    automize the creation of Kubernetes files.
                   </p>
 
                   <div className="flex gap-2 mt-4">
                     <Link
-                      href="https://github.com/luciapaulinapereyra/pet-app"
+                      href="https://github.com/luciapaulinapereyra/kubenator"
                       target="_blank"
                       className="underline cursor-pointer"
                     >
